@@ -15,4 +15,4 @@ In this project, we will developing from scratch REST API endpoints of various f
  
  <b> For Example :- </b><p> if we committed three time in the customerController than the thrid commit is  <b>featureV 0.1.3 logout function is added</b><p>
 
-<h2>Finall Project Version is <I>featureV 1.0.0 All the API endPoints are created</I><h2>
+<h2>Finall Project Version Commit is <I>"featureV 1.0.0 All the API endPoints are created"</I><h2>
